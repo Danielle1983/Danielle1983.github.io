@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+#treatments {
+  border-color: black;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
+
+h2 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+#DC {
+  width: 25%;
+}
